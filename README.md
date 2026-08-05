@@ -1,5 +1,10 @@
 # Hi there, I'm Mohammad Trabelsi 👋
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=2ea44f&labelColor=171b21" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=007ec6" alt="Profile Views" />
+</p>
+
 ### 🚀 Full-Stack Web Development Engineer & R&D Specialist
 With over 10 years of experience in engineering high-performance web applications, I specialize in full-stack architecture with **Laravel**, **Symfony**, **Livewire**, and modern web technologies[cite: 1]. I actively leverage generative AI tools like **Claude**, **GitHub Copilot**, and **Gemini** to streamline development workflows and deliver scalable, clean solutions[cite: 1].
 
