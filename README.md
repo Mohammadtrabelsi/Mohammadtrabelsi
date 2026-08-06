@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-- 💼 **Current Role:** Web Developer at **2Earn.cash** (Laravel 12 / Livewire)
+- 💼 **Current Role:** Web Developer at **2Earn.cash** (Laravel 13 / Livewire)
 - 🎓 **Education:** National Diploma of Computer Engineering (*Specialized in Multimedia Technologies*)
 - 📍 **Location:** Sfax, Tunisia
 - ⚡ **Passions:** Building robust web apps, UX/UI design, AI-driven development, cycling & traveling
