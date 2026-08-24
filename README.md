@@ -59,12 +59,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadtrabelsi&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadtrabelsi&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%"/>
+  <a href="https://github.com/Mohammadtrabelsi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohammadtrabelsi&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/Mohammadtrabelsi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadtrabelsi&layout=compact&theme=nord&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohammadtrabelsi&theme=nord&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <a href="https://github.com/Mohammadtrabelsi">
+    <img src="https://streak-stats.demolab.com?user=Mohammadtrabelsi&theme=nord&hide_border=true" alt="GitHub Streak" width="60%"/>
+  </a>
 </p>
 
 ---
