@@ -71,6 +71,19 @@
 
 ---
 
+### 📄 Curriculum Vitae
+
+<p align="left">
+  <a href="Mohammad%20Trabelsi%20EN.pdf">
+    <img src="https://img.shields.io/badge/Download-CV%20(English)-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (English)"/>
+  </a>
+  <a href="Mohammad%20Trabelsi%20FR.pdf">
+    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-CV%20(Fran%C3%A7ais)-007ec6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger CV (Français)"/>
+  </a>
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 <p align="left">
