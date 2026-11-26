@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-- 💼 **Current Role:** Web Developer at **2Earn.cash** (Laravel 12 / Livewire)
+- 💼 **Current Role:** Web Developer at **2Earn.cash** (Laravel 13 / Livewire)
 - 🎓 **Education:** National Diploma of Computer Engineering (*Specialized in Multimedia Technologies*)
 - 📍 **Location:** Sfax, Tunisia
 - ⚡ **Passions:** Building robust web apps, UX/UI design, AI-driven development, cycling & traveling
@@ -52,19 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadtrabelsi&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadtrabelsi&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohammadtrabelsi&theme=nord&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
