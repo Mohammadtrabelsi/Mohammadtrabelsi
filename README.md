@@ -16,10 +16,32 @@
 ### 💡 About Me
 
 - 💼 **Current Role:** Web Developer at **2Earn.cash** (Laravel 13 / Livewire)
-- 🎓 **Education:** National Diploma of Computer Engineering (*Specialized in Multimedia Technologies*)
+- 🎓 **Education:** Computer Science Engineering, ISIMS Sfax (see below)
+- 🌍 **Languages:** Arabic (native), French and English (limited professional proficiency)
 - 📍 **Location:** Sfax, Tunisia
 - ⚡ **Passions:** Building robust web apps, UX/UI design, AI-driven development, cycling & traveling
 - 💬 **Ask me about:** PHP, Laravel, Livewire, Symfony, Drupal, PrestaShop, MySQL, REST APIs
+
+---
+
+### 💼 Experience
+
+| Period | Role & Company | Highlights |
+|---|---|---|
+| 03/2024 – Present | **Full-Stack Developer**, 2Earn.cash | Technical lead on a Laravel & Livewire platform; upgraded the app from Laravel 9 to Laravel 13; refactoring, integration tests, Agile/Scrum |
+| 02/2024 – 03/2024 | **Full-Stack Developer**, I Way | Custom Drupal 10 themes and modules; WCAG accessibility and performance tuning |
+| 10/2023 – 01/2024 | **Full-Stack Developer**, DK Soft | Multi-vendor marketplace on PrestaShop; custom modules; full-stack incident resolution |
+| 10/2021 – 09/2023 | **Full-Stack Developer**, FOODOMARKET | Requirements analysis, feature roadmap, performance and scalability work (PHP, JavaScript, REST APIs, CI/CD) |
+| 07/2016 – 09/2021 | **Full-Stack Web & BI Developer**, SIFAST | Symfony web interfaces, UX audits, automated E2E and integration test suites, BI dashboards (Power BI / Metabase) |
+| 04/2015 – 06/2016 | **Full-Stack Web Developer**, Z Consulting | Accessible, responsive interfaces; CodeIgniter and PHP APIs; technical documentation |
+
+---
+
+### 🎓 Education
+
+- **2011 – 2014:** National Engineering Degree in Computer Science, Higher Institute of Computer Science and Multimedia of Sfax (ISIMS), *Multimedia Technologies*
+- **2009 – 2011:** Applied Licence in Computer Science, ISIMS, *Web and Multimedia Technologies* (ranked 1st in class for two consecutive years)
+- **2007 – 2008:** High School Diploma in Computer Science (Tunisian Baccalaureate), Hedi Soussi High School, Sfax (graduated with honors)
 
 ---
 
@@ -35,7 +57,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" alt="Drupal" title="Drupal" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prestashop/prestashop-original.svg" alt="PrestaShop" title="PrestaShop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 </p>
+
+**Also experienced with:** GraphQL & RESTful APIs, CodeIgniter, Elasticsearch, Power BI, Metabase, Talend, Qlik Sense, SonarQube, PHPUnit, UML modeling, Agile / Scrum
 
 **Frontend**
 
@@ -44,6 +69,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
 </p>
 
 **Design & UI/UX**
@@ -92,5 +118,8 @@
   </a>
   <a href="https://github.com/Mohammadtrabelsi">
     <img src="https://img.shields.io/badge/GitHub-Mohammadtrabelsi-171b21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammadtrabelsi">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammadtrabelsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
